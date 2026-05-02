@@ -17,7 +17,7 @@
 
 Приложение использует публичный API GitHub без необходимости аутентификации для базового поиска пользователей.
 
-**Базовый URL:** `https://api.github.com/users/{username}`
+**Базовый URL:** `[https://github.com/69inf69/liceum1]
 
 **Возвращаемые данные:**
 * `login` — имя пользователя;
@@ -51,6 +51,6 @@
 ## Как запустить
 
 ```bash
-git clone https://github.com/твой-логин/weather-diary.git
+git clone https://github.com/liceum1/weather-diary.git
 cd weather-diary
 python main.py
